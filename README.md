@@ -31,3 +31,7 @@ To navigate between digits two pushbuttons, LEFT (<-) and RIGHT (->), are used.
 To change Waveform type a third pushbutton (MODE) it's used.
 
 To reset the digit press the encoder button.
+
+Want this PCB manufactured?
+Check www.pcbway.com
+You can directly upload the file in the gerber folder and customize as you wish!
